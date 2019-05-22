@@ -1,2 +1,0 @@
-# GardenTest
-Created with CodeSandbox
